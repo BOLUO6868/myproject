@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>700</width>
+    <height>900</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>700</width>
+    <height>900</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QListWidget" name="musicwidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>671</width>
+     <height>631</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSlider" name="horizontalSlider">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>690</y>
+     <width>651</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/play.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/right.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/left.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/list.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/volume.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>720</y>
+     <width>80</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>80</width>
+     <height>80</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/assets/file.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>670</y>
+     <width>71</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Microsoft YaHei UI&quot;;</string>
+   </property>
+   <property name="text">
+    <string>00:00</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label2">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>670</y>
+     <width>71</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Microsoft YaHei UI&quot;;</string>
+   </property>
+   <property name="text">
+    <string>00:00</string>
+   </property>
+  </widget>
+  <widget class="QSlider" name="verticalSlider">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>610</y>
+     <width>31</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Vertical</enum>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
