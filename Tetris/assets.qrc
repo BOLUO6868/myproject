@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/button.png</file>
+        <file>assets/menubg.png</file>
+        <file>assets/mask_black.png</file>
+        <file>assets/bg1.jpg</file>
+        <file>assets/bg2.jpg</file>
+        <file>assets/bg3.jpg</file>
+        <file>assets/dialog480.png</file>
+        <file>assets/Background_HighBattle.mp3</file>
+        <file>assets/Background_NormalBattle.mp3</file>
+        <file>assets/Background_World.mp3</file>
+        <file>assets/bg_mainmenu.mp3</file>
+        <file>assets/sound_click.wav</file>
+        <file>assets/sound_collect.wav</file>
+        <file>assets/sound_e_clean.wav</file>
+        <file>assets/bg4.jpg</file>
+    </qresource>
+</RCC>
