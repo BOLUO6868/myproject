@@ -1,0 +1,19 @@
+﻿  fun.cpp
+  main.cpp
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Tools.h(271,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Tools.h(272,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Tools.h(290,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Tools.h(291,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Mouse.h(117,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Mouse.h(118,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Mouse.h(148,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\Mouse.h(149,18): warning C4244: “=”: 从“LONG”转换到“SHORT”，可能丢失数据
+  totable.cpp
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\totable.cpp(144,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\totable.cpp(263,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\totable.cpp(507,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1315 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  逻辑电路设计软件.vcxproj -> E:\Visual Stdio项目\黑框框程序设计大赛作品\最终汇总文件（源代码、exe、作品报告表、演示视频）\CircuitLab\x64\Release\逻辑电路设计软件.exe
